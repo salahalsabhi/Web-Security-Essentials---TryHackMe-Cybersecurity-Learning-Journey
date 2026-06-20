@@ -144,7 +144,7 @@ https://tryhackme.com/room/websecurityessentials
 
 ---
 ---
-LinkedIn: [
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7474078748250669057/]
 
 X: [https://x.com/charisma1385/status/2068300237085487397]
 
